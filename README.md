@@ -27,7 +27,7 @@ This is the desktop version of the component. I didn't upload the mobile version
 
 ### Links
 
-- Live Site URL: [Live site of the challenge hosted here](https://faq-accordion7.netlify.app/)
+- Live Site URL: [Live site of the challenge hosted here](https://junayedrahaman50.github.io/faq-accordion/)
 
 ## My process
 
